@@ -37,6 +37,16 @@
 | **Database** | <img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Database"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> |
 | **Infra & tools** | <img src="https://img.shields.io/badge/Cloudflare%20Tunnel-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude"/> |
 
+### 🏢 Oracle EBS functional expertise
+
+| Business process | Modules |
+| --- | --- |
+| **Procure to Pay** | Purchasing · iProcurement · Services Procurement · Accounts Payable (AP) |
+| **Financials** | General Ledger (GL) · Accounts Receivable (AR) · Fixed Assets (FA) · Cash Management (CM) · Advanced Global Intercompany System (AGIS) |
+| **Process Manufacturing** | OPM Product Development · OPM Process Execution · OPM Costing |
+| **Projects** | Oracle Project Costing |
+| **Mobile** | Oracle E-Business Suite Mobile Approvals |
+
 ### 📌 Featured work
 
 | Project | What it is |
