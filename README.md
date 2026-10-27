@@ -30,19 +30,12 @@
 
 ### 🛠️ Tech stack
 
-<p>
-  <img src="https://img.shields.io/badge/Oracle%20APEX-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle APEX"/>
-  <img src="https://img.shields.io/badge/Oracle%20EBS%20R12.2-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle EBS"/>
-  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white" alt="PL/SQL"/>
-  <img src="https://img.shields.io/badge/ORDS-F80000?style=flat-square&logo=oracle&logoColor=white" alt="ORDS"/>
-  <img src="https://img.shields.io/badge/Oracle%20JET-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle JET"/>
-  <img src="https://img.shields.io/badge/SQLcl-F80000?style=flat-square&logo=oracle&logoColor=white" alt="SQLcl"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Cloudflare%20Tunnel-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude"/>
-</p>
+| | |
+| --- | --- |
+| **Oracle** | <img src="https://img.shields.io/badge/Oracle%20APEX-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle APEX"/> <img src="https://img.shields.io/badge/Oracle%20EBS%20R12.2-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle EBS"/> <img src="https://img.shields.io/badge/Oracle%20Fusion%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Fusion Cloud"/> <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white" alt="PL/SQL"/> <img src="https://img.shields.io/badge/ORDS-F80000?style=flat-square&logo=oracle&logoColor=white" alt="ORDS"/> <img src="https://img.shields.io/badge/Oracle%20JET-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle JET"/> <img src="https://img.shields.io/badge/SQLcl-F80000?style=flat-square&logo=oracle&logoColor=white" alt="SQLcl"/> |
+| **Web & backend** | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Payload%20CMS-000000?style=flat-square&logo=payloadcms&logoColor=white" alt="Payload CMS"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> |
+| **Database** | <img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Database"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> |
+| **Infra & tools** | <img src="https://img.shields.io/badge/Cloudflare%20Tunnel-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude"/> |
 
 ### 📌 Featured work
 
