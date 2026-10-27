@@ -54,6 +54,11 @@
 
 <!-- Diisi otomatis oleh GitHub Action (.github/workflows/blog-post-workflow.yml) dari RSS Medium -->
 <!-- BLOG-POST-LIST:START -->
+- [Satu Halaman APEX untuk Semua API: Membangun Developer Portal dengan Swagger UI di Atas ORDS](https://medium.com/@iwan.herdian86/satu-halaman-apex-untuk-semua-api-membangun-developer-portal-dengan-swagger-ui-di-atas-ords-e57a7d094148?source=rss-105e515795bc------2)
+- [One APEX Page for Every API: Building a Developer Portal with Swagger UI on Top of ORDS](https://medium.com/@iwan.herdian86/one-apex-page-for-every-api-building-a-developer-portal-with-swagger-ui-on-top-of-ords-e1329dbaada1?source=rss-105e515795bc------2)
+- [Dari Excel ke Access Vault: Membangun Portal Manajemen Kredensial Internal dengan Oracle APEX…](https://medium.com/@iwan.herdian86/dari-excel-ke-access-vault-membangun-portal-manajemen-kredensial-internal-dengan-oracle-apex-37f21a65437f?source=rss-105e515795bc------2)
+- [Batch-Updating Descriptive Flexfields in Oracle Fusion with SOAP UI](https://medium.com/@iwan.herdian86/batch-updating-descriptive-flexfields-in-oracle-fusion-with-soap-ui-5c802aea4950?source=rss-105e515795bc------2)
+- [XTD_FA_FISCAL_DEPRN_PKG: Automating Periodic Mass Copy and Depreciation Runs for Tax and FKL Books…](https://medium.com/@iwan.herdian86/xtd-fa-fiscal-deprn-pkg-automating-periodic-mass-copy-and-depreciation-runs-for-tax-and-fkl-books-ddb93bffee8a?source=rss-105e515795bc------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More on [Medium](https://medium.com/@iwan.herdian86)
